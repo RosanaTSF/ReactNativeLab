@@ -1,5 +1,4 @@
-# DIO 
-# Introdução ao React Native
+# React Native - DIO
 # Recriando o GitHub
 
 ![image]( )
