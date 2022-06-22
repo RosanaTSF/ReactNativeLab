@@ -1,7 +1,7 @@
 # React Native - DIO
 # Recriando o GitHub
 
-![image]( )
+![image](![Screenshot_1655853819](https://user-images.githubusercontent.com/101351309/175170566-76af9aeb-75a4-417e-93d4-bb112b825b2a.png)
 
 # Conteúdo
 - Conhecendo o React Native
